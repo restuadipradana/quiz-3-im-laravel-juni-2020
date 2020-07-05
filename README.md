@@ -9,7 +9,7 @@ $ cd quiz-3
 ```
 * jalankan perintah composer install untuk mendownload direktori vendor
 ```bash
-$ composer install
+$ composer install (composer update,  kalau gabisa)
 ```
 * buat file .env lalu isi file tersebut dengan seluruh isi dari file .env.example
 
